@@ -10,3 +10,5 @@ git init
 Initialized empty Git repository in /Users/michael/learngit/.git/
 
 git add readme.txt
+
+这是一个中文测试
