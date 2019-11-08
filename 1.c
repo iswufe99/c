@@ -1,12 +1,14 @@
-/*
+/*.
+输出函数printf的详细用法
 2019-11-5
-测试输入输出
+GitHub:
+测试环境: windows10 , gcc version 8.1.0
 */
 #include <stdio.h>
 #include <stdlib.h>//system使用需要库文件
 int main(void){
 
-    // system("chcp 65001");//切换终端的字符集为UTF-8
+    // system("chcp 65001");//切换终端的字符集为UTF-8,有的终端显示中文乱码
     system("cls");//清屏,为程序需显示做准备
  
     int i,j;
